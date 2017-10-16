@@ -1,2 +1,5 @@
 # hello-world
-Just for test
+
+Hi Humans!
+
+This project is just for testing.
